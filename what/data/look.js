@@ -1,0 +1,1 @@
+scope.lookAt(dcamera.position);
